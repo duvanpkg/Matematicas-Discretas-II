@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0604b759-3171-472e-b80e-d16f5ae03e22" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bbSggXEV9sjmdhnWmRM79ZU1TJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Babel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="upb.edu.co.Babel" />
+      <module name="Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="upb.edu.co.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="upb.edu.co.Main" />
+      <module name="Lab" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Babel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0604b759-3171-472e-b80e-d16f5ae03e22" name="Default Changelist" comment="" />
+      <created>1588899413000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588899413000</updated>
+      <workItem from="1588899415322" duration="7631000" />
+      <workItem from="1588988438108" duration="320000" />
+      <workItem from="1588989213169" duration="11324000" />
+      <workItem from="1589001136007" duration="687000" />
+      <workItem from="1589040777707" duration="10622000" />
+      <workItem from="1589057113409" duration="9391000" />
+      <workItem from="1589254654999" duration="609000" />
+      <workItem from="1589284672454" duration="1036000" />
+      <workItem from="1589285900214" duration="37000" />
+      <workItem from="1589316877060" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1323" height="181" key="GridCell.Tab.0.bottom" timestamp="1589285757971">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589285757971" />
+    <state width="1323" height="181" key="GridCell.Tab.0.center" timestamp="1589285757971">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1589285757971" />
+    <state width="1323" height="181" key="GridCell.Tab.0.left" timestamp="1589285757971">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1589285757971" />
+    <state width="1323" height="181" key="GridCell.Tab.0.right" timestamp="1589285757971">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="181" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1589285757971" />
+    <state width="1092" height="176" key="GridCell.Tab.1.bottom" timestamp="1589079462249">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1092" height="176" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1589079462249" />
+    <state width="1092" height="176" key="GridCell.Tab.1.center" timestamp="1589079462249">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1092" height="176" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1589079462249" />
+    <state width="1092" height="176" key="GridCell.Tab.1.left" timestamp="1589079462249">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1092" height="176" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1589079462249" />
+    <state width="1092" height="176" key="GridCell.Tab.1.right" timestamp="1589079462249">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1092" height="176" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1589079462249" />
+  </component>
+</project>
