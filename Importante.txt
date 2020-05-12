@@ -1,0 +1,2 @@
+-El laboratorio 3 y 4 tiene algunas fallas en su output
+-El laboratorio 5 y 6 tiene algunas fallas en su output, por lo que no se aplico el filtro de las iniciales repetidas de cada palabra 
